@@ -1,0 +1,10 @@
+D:\project\C#\qqAuto\QQAuto\bin\Release\QQAuto.exe.config
+D:\project\C#\qqAuto\QQAuto\bin\Release\QQAuto.exe
+D:\project\C#\qqAuto\QQAuto\bin\Release\QQAuto.pdb
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.csprojResolveAssemblyReference.cache
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.Form1.resources
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.Properties.Resources.resources
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.csproj.GenerateResource.Cache
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.csproj.CoreCompileInputs.cache
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.exe
+D:\project\C#\qqAuto\QQAuto\obj\Release\QQAuto.pdb
